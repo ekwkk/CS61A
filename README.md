@@ -6,6 +6,11 @@
 
 [Discussion 2: Higher Order Functions](https://docs.google.com/presentation/d/1KvzLaDHW57VXmNr6ZrlxrgyjFTadD7gcBmb5AlcgmSw/edit?usp=sharing)
 
+[Discussion 3: Recursion]
+No slides
+
+[Discussion 4: Tree Recursion and Lists](https://docs.google.com/presentation/d/1RJjMtp4JVwBrYUoqwTu6QV9nH3hHQPLdcSx6E6-ppS4/edit?usp=sharing)
+
 
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
