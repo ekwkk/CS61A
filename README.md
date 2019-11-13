@@ -19,6 +19,12 @@ No class
 
 [Discussion 7: Interfaces, Iterators, and Linked Lists](https://docs.google.com/presentation/d/1NYkSydUVsTBbDArFb5awVw8cdeFn512K7wexNMOaow8/edit?usp=sharing)
 
+[Discussion 9: Scheme](https://docs.google.com/presentation/d/1zCVznKFedf7TqSOCGx7bAWO3mdOOml59C5K0cfInLlM/edit?usp=sharing)
+
+[Discussion 10: Interpreters and Tail Calls](https://docs.google.com/presentation/d/1neP6-YZP6JtWMwJdqRh5CpiEIcPUxI0Li6z1V2neOlc/edit?usp=sharing)
+
+[Discussion 11: Macros and Streams](https://docs.google.com/presentation/d/11EID1oazHCSBP5DZNSBr1LQVIULFh_-Yb3YLHtInRik/edit?usp=sharing)
+
 
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
