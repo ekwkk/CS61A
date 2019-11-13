@@ -6,16 +6,7 @@
 
 [Discussion 2: Higher Order Functions](https://docs.google.com/presentation/d/1KvzLaDHW57VXmNr6ZrlxrgyjFTadD7gcBmb5AlcgmSw/edit?usp=sharing)
 
-Discussion 3:
-No slides
-
 [Discussion 4: Tree Recursion and Lists](https://docs.google.com/presentation/d/1RJjMtp4JVwBrYUoqwTu6QV9nH3hHQPLdcSx6E6-ppS4/edit?usp=sharing)
-
-Discussion 5:
-No slides
-
-Discussion 6:
-No class
 
 [Discussion 7: Interfaces, Iterators, and Linked Lists](https://docs.google.com/presentation/d/1NYkSydUVsTBbDArFb5awVw8cdeFn512K7wexNMOaow8/edit?usp=sharing)
 
