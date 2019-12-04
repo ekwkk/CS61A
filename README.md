@@ -16,6 +16,8 @@
 
 [Discussion 11: Macros and Streams](https://docs.google.com/presentation/d/11EID1oazHCSBP5DZNSBr1LQVIULFh_-Yb3YLHtInRik/edit?usp=sharing)
 
+[Discussion 12: SQL](https://docs.google.com/presentation/d/1lZb62s6PG4BkJZgYLr2T4C65qam_1YBZX5Bv7SsKlUY/edit?usp=sharing)
+
 
 ## Additional Resources
 Check the [Resources](https://cs61a.org/resources.html) tab for more, here are some selected ones  
